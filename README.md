@@ -5,6 +5,6 @@ The project is Codeigniter Auto Generate HTML Input Form By get field 's name fr
 I created this project because I don't need to create html input form every time when I create new mysql table.
 It helps me coding fast but I think Uncle Bobs doesn't like this. My code still dirty and it looks complex.
 
-Please comment about your think on my code and my idea.
+Please comment about your thinking on my idea and my code.
 
 Thank you.
